@@ -6,7 +6,7 @@ st.set_page_config(layout="centered")
 
 blank1, main, blank2 = st.columns([1,8,1])
 with main:
-    st.markdown("<h1 style='text-align: center;'>자율 주행 휠체어 홍보 사이트</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>자율 주행 휠체어 <br>홍보 사이트</h1>", unsafe_allow_html=True)
     st.markdown("<h4 style='text-align: center;'>이모빌리티 폭격기</h4>", unsafe_allow_html=True)
 
 tab1, tab2, tab3, tab4 = st.tabs(['제작 동기', '제작 계획', '사업화 계획', '프로토타입 시연 정보'])
