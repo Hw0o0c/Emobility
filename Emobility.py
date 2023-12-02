@@ -38,7 +38,7 @@ with tab2:
             st.image('images/function.png', width=670)
 with tab3:
     with st.container(border=True): 
-            st.subheader('사업화 대상', divider= True)
+            st.subheader('마케팅 전략', divider= True)
             st.image('images/marketing.png', width=670)
     
 with tab4:
